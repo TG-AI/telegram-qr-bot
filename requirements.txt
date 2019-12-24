@@ -1,0 +1,7 @@
+pyqrcode
+pyTelegramBotAPI
+colorama
+Pillow
+pypng
+zbar
+pyzbar
