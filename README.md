@@ -20,14 +20,14 @@ ___
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/0gothboy0/telegram-qr-bot/issues) if you want to contribute.<br />
-[Check the contributing guide](./CONTRIBUTING.md).<br />
+Feel free to check [issues page](https://github.com/0gothboy0/discord-bot/issues)<br />
+
 
 ## Author
 
 👤 **Kiryssha**
 
-- Site: [gothboy](gothboy.me)
+- Site: [gothboy](http://gothboy.me)
 - Github: [@0gothboy0](https://github.com/0gothboy0)
 
 ## Show your support
@@ -37,7 +37,6 @@ Please ⭐️ this repository if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Kiryssha](https://github.com/0gothboy0).<br />
-This project is [MIT](https://github.com/0gothboy0/telegram-qr-bot/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/0gothboy0/discord-bot/blob/master/LICENSE) licensed.
 
 ---
-
