@@ -20,7 +20,7 @@ ___
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/0gothboy0/discord-bot/issues)<br />
+Feel free to check [issues page](https://github.com/xcaq/telegram-qr-bot/issues)<br />
 
 
 ## Author
@@ -28,7 +28,7 @@ Feel free to check [issues page](https://github.com/0gothboy0/discord-bot/issues
 👤 **Kiryssha**
 
 - Site: [gothboy](http://gothboy.me)
-- Github: [@0gothboy0](https://github.com/0gothboy0)
+- Github: [@0gothboy0](https://github.com/xcaq)
 
 ## Show your support
 
