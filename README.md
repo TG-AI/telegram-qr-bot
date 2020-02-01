@@ -3,7 +3,7 @@
 
 ## ⚙️ Problems and solutions
 ![Version 0.0.1 ](https://github.com/0gothboy0/telegram-qr-bot/blob/master/img/Screenshot%202019-12-24%20at%208.40.23%20PM.png)
-### A lot of users have problem with zbar framework installing, i found only one solution – install using brew.
+### A lot of users have problem with zbar framework installing( mac os ) uhh and i found only one solution – install it using brew.
 ```bash
 $ brew install zbar
 
