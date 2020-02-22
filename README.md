@@ -13,9 +13,7 @@ $ brew install zbar
 ## 📸 Examples
 ![Version 0.0.1 ](https://github.com/0gothboy0/telegram-qr-bot/blob/master/img/Screenshot%202019-12-24%20at%208.48.26%20PM.png)
 ###### bot work on two sides – gets and sends. If you send qrcode it decode it.
-___
-![Version 0.0.1 ](https://github.com/0gothboy0/telegram-qr-bot/blob/master/img/IMAGE%202019-12-24%208:48:33%20PM.jpg)
-###### qrcode example.
+
 
 ## 🤝 Contributing
 
