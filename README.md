@@ -1,4 +1,4 @@
-<h1 align="left">Teleram Qr Bot</h1>
+<h1 align="left">Telegram Qr Bot</h1>
 
 
 ## ⚙️ Problems and solutions
