@@ -3,5 +3,5 @@ pyTelegramBotAPI
 colorama
 Pillow
 pypng
-zbar
+https://github.com/ZBar/ZBar.git
 pyzbar
