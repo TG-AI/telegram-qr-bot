@@ -10,7 +10,7 @@ import time
 
 
 date_today = datetime.datetime.now()
-bottoken = "TOKEN"
+bottoken = environ.get('BOT_TOKEN')
 
 
 bot = telebot.TeleBot(bottoken)
