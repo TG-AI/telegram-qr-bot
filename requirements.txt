@@ -3,4 +3,5 @@ pyTelegramBotAPI
 colorama
 Pillow
 pypng
+ZBAR_LIB
 
